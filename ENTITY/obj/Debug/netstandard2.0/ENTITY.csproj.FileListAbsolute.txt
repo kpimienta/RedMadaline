@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\RNAMulticapa\ENTITY\bin\Debug\netstandard2.0\ENTITY.deps.json
+C:\Users\Sebastian\source\repos\RNAMulticapa\ENTITY\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\Sebastian\source\repos\RNAMulticapa\ENTITY\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\Sebastian\source\repos\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+C:\Users\Sebastian\source\repos\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.csprojAssemblyReference.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfoInputs.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.AssemblyInfo.cs
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.dll
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\ENTITY\obj\Debug\netstandard2.0\ENTITY.pdb

@@ -1,0 +1,41 @@
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\RNAMulticapa.exe.config
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\RNAMulticapa.exe
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\RNAMulticapa.pdb
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\BLL.dll
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\ENTITY.dll
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\DAL.dll
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\BLL.pdb
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\ENTITY.pdb
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\bin\Debug\DAL.pdb
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.Form1.resources
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.NeuronsNumber.resources
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.Properties.Resources.resources
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.TrainData.resources
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.csproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.csproj.CopyComplete
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.exe
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.pdb
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.Backpropagation.resources
+C:\Users\Sebastian\source\repos\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.SimulateBackpropagation.resources
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\RNAMulticapa.exe.config
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\RNAMulticapa.exe
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\RNAMulticapa.pdb
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\BLL.dll
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\ENTITY.dll
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\DAL.dll
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\BLL.pdb
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\ENTITY.pdb
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\bin\Debug\DAL.pdb
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.csprojAssemblyReference.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.Backpropagation.resources
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.Form1.resources
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.NeuronsNumber.resources
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.Properties.Resources.resources
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.SimulateBackpropagation.resources
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.TrainData.resources
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.csproj.GenerateResource.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.csproj.CoreCompileInputs.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.csproj.CopyComplete
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.exe
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\RNAMulticapa\obj\Debug\RNAMulticapa.pdb

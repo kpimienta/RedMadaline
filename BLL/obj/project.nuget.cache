@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WZffoB3KxeWgNgW6PSE2n+N4P5TObl39TvwdxK26+VImYKI4B4XX41ZOH1xWxg2MiI2SLmrQxtXMPj2xyJp6qw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JOHAN\\Documents\\NUEVO ARCHIVOS KELLY\\UPC\\DECIMO SEMESTRE\\INTELIGENCIA ARTIFICIAL\\PRIMER CORTE\\Inteligencia artificialSebas\\Inteligencia artificial\\RNAMulticapa\\RNAMulticapa\\BLL\\BLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOHAN\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JOHAN\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

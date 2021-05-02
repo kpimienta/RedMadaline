@@ -1,0 +1,23 @@
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\Sebastian\source\repos\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.pdb
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\bin\Debug\netstandard2.0\ENTITY.dll
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\bin\Debug\netstandard2.0\ENTITY.pdb
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\JOHAN\Documents\NUEVO ARCHIVOS KELLY\UPC\DECIMO SEMESTRE\INTELIGENCIA ARTIFICIAL\PRIMER CORTE\Inteligencia artificialSebas\Inteligencia artificial\RNAMulticapa\RNAMulticapa\DAL\obj\Debug\netstandard2.0\DAL.pdb
